@@ -4,4 +4,4 @@
 ## _Wildcards
 ### Arraylist<?>
 ### Arraylist<? Extends Number>
-### Arraylist<Integer>          Arraylist<Double>           Arraylist<Number>
+### ArrayList<Integer>,ArrayList<Double>,ArrayList<Number>
