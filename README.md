@@ -3,5 +3,5 @@
 ## _ArrayList-Integer and ArrayList-String are same types.
 ## _Wildcards
 ### Arraylist<?>
-### Arraylist<? Extends Number>
-### ArrayList-Integer,ArrayList-Double,ArrayList-Number
+### -> Arraylist<? Extends Number>
+### => ArrayList-Integer,ArrayList-Double,ArrayList-Number
